@@ -5,11 +5,11 @@ In this respository I have shown images of a Tableau visualization used to ident
 
 The storyboard contains two slides, unsafe bridges in Washington State and a second slide giving the description of the Skagit River Bridge on the map. The screenshots of the two slides are shown below:
 
-![Images/Storyboard-viz1.png]
+![/DataViz-Tableau/blob/master/Images/Storyboard-viz1.png]
 
 In the second screenshot, shows the candidates narrowed down to the Skagit River Bridge
 
-![Images/Storyboard-viz2.png]
+![/DataViz-Tableau/blob/master/Images/Storyboard-viz2.png]
 
 ###Based on this information, we can answer the following questions surrounding its collapse.
 
