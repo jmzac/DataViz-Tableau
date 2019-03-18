@@ -13,24 +13,24 @@ In the second screenshot, we narrowed down to the Skagit River Bridge
 
 ### Based on this visualization, we can answer the following questions surrounding its collapse.
 
-1. What’s the rating of the Skagit River Bridge that collapsed into the river? 
+1.What’s the rating of the Skagit River Bridge that collapsed into the river? 
   
-  It has a sufficiency rating of 46, which is below 50 and hence the bridge is eligible for replacement.
+    It has a sufficiency rating of 46, which is below 50 and hence the bridge is eligible for replacement.
 
-2. What other distinguishing information can we obtain that might go into a story?
+2.What other distinguishing information can we obtain that might go into a story?
   
-  This Bridge is owned and maintained by the State Highway Agency
+    This Bridge is owned and maintained by the State Highway Agency
 
-3. When was the bridge last inspected and how often is it inspected?
+3.When was the bridge last inspected and how often is it inspected?
   
-  The Bridge was last inspected in 2015 and the frequency of inspections given is 24.
+    The Bridge was last inspected in 2015 and the frequency of inspections given is 24.
 
-4. Is it considered fracture-critical, meaning one hit to a span can knock it out?
+4.Is it considered fracture-critical, meaning one hit to a span can knock it out?
   
-  Yes, it has a fracture-critical rating of Y24 hence it can collapse with a major hit to a span.
+    Yes, it has a fracture-critical rating of Y24 hence it can collapse with a major hit to a span.
 
-5. How much average daily traffic does it get?
+5.How much average daily traffic does it get?
   
-  The bridge gets an average daily traffic of 70,948 based on the data
+    The bridge gets an average daily traffic of 70,948 based on the data
 
 The workbook is found at [Tableau Public Repository](https://public.tableau.com/profile/jaivin.zachariah#!/vizhome/SkagitRiverBridge-Analysis/SkagitBridge-Collapse)
